@@ -32,7 +32,7 @@ You can check out the Figma design here [Figma](https://www.figma.com/design/V2B
 
    ```bash
    git clone https://github.com/fL-safi/invitro-healthcare-ui.git
-   cd healthcare-webapp
+   cd invitro-healthcare-ui
 
 
 
