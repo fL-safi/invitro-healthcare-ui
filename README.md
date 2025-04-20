@@ -31,7 +31,7 @@ You can check out the Figma design here [Figma](https://www.figma.com/design/V2B
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/healthcare-webapp.git
+   git clone https://github.com/fL-safi/invitro-healthcare-ui.git
    cd healthcare-webapp
 
 
